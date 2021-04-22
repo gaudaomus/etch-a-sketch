@@ -1,0 +1,12 @@
+.container {
+  position: absolute;
+  top: 30%;
+  left: 660px;
+  width: 600px;
+  height: 600px;
+  border: solid 1px;
+}
+
+.grid {
+  float: left;
+}
